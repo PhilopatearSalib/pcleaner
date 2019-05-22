@@ -1,0 +1,9 @@
+# Writing all output to: E:\my college books\SEMESTERS\6 SENIOR1\SEMESTER 8\Design of mechatronics 2\circuits\AC to DC Converter\AC to DC Converter.log
+set pad_wire_necking on
+bus diagonal
+fanout 1
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
